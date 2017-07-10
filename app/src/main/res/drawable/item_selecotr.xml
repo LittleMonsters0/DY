@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- 当选中的时间，设定颜色为白色 -->
+    <item android:state_checked="true" android:color="@color/white"></item>
+    <!-- 当没有选中的时间， 设定颜色为灰色-->
+    <item android:state_checked="false" android:color="@color/gray"></item>
+        
+
+</selector>
